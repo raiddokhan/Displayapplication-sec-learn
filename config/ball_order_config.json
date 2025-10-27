@@ -1,0 +1,43 @@
+[
+    {
+        "4": {
+            "element_count": 4,
+            "list_elements": {
+                "0": [
+                    [
+                        "norm",
+                        "reg",
+                        "bal"
+                    ],
+                    [
+                        "reg",
+                        "norm",
+                        "bal"
+                    ],
+                    [
+                        "reg",
+                        "reg",
+                        "bal"
+                    ]
+                ],
+                "1": [
+                    [
+                        "reg",
+                        "norm",
+                        "bal"
+                    ],
+                    [
+                        "norm",
+                        "reg",
+                        "bal"
+                    ],
+                    [
+                        "reg",
+                        "reg",
+                        "bal"
+                    ]
+                ]
+            }
+        }
+    }
+]

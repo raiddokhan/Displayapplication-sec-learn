@@ -1,0 +1,30 @@
+{
+    "type": "key_less",
+    "name_pipe_path": "/tmp/myfifo",
+    "type_balls": [
+        "norm",
+        "reg",
+        "bal"
+    ],
+    "enable_features": {
+        "_comment": "Enable=>true,disable=>false",
+        "resource_monitor": {
+            "status": true,
+            "cpu_used_app": true,
+            "cpu_usage_system": false,
+            "memory_usage_app": true,
+            "memory_usage_system": false,
+            "swap_memory_usage_app": true,
+            "swap_memory_usage_system": true
+        }
+    },
+    "ui_elements": {
+        "Dial": {
+            "maximum": {
+                "min": 0,
+                "max": 10,
+                "steps": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+[submodule "lib/qwt"]
+	path = lib/qwt
+	url = https://github.com/opencor/qwt.git
+[submodule "lib/VTK"]
+	path = lib/VTK
+	url = https://github.com/Kitware/VTK
